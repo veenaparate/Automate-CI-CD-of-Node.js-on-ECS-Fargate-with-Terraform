@@ -1,1 +1,0 @@
-This project automates the deployment of Node.js applications on AWS ECS Fargate using **GitHub Actions** for CI/CD, **Terraform** for infrastructure management, **Docker** for containerization, and **Amazon ECR** for image storage, ensuring efficient and scalable deployment with Infrastructure as Code (IaC).
